@@ -3,7 +3,7 @@ PlanetBuster
 
 弾幕STG
 
-<img src="screenshot.png" />
+<img src="screenshot1.png" />
 
 弾幕系シューティングです。
 スマートフォンはスワイプ、PCはカーソルキー、または画面のドラッグで自機の移動が出来ます。
