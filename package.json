@@ -1,0 +1,25 @@
+{
+  "name": "planetbuster",
+  "version": "1.0.0",
+  "description": "PlanetBuster ============",
+  "main": "algorithm.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minimo/PlanetBuster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minimo/PlanetBuster/issues"
+  },
+  "homepage": "https://github.com/minimo/PlanetBuster#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
