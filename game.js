@@ -56,6 +56,8 @@ var debug = false;		//デバッグ情報表示
 var debugview = false;	//enchant.jsデバッグスタート
 var nodamage = false;	//自機当たり判定無効
 
+window.focus();
+window.addEventListener("mousedown", () => window.focus());
 enchant();
 
 window.onload = function() {
